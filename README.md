@@ -4,7 +4,6 @@
 - 📫 You can email me: pascaljoseph729@gmal.com or wa.me: 07046253045
 - 😄 Pronouns: He
 - ⚡ Fun fact: Am cursed on improving anything am given. I try my best to learn everything i can
-- currently in 100level studying statistics in the University of Benin City Nigeria
 - An honest person, life should be explored!.
 
 <!---
