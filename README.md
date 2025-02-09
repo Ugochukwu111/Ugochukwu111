@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Ugochukwu pascal
+- 👋 Hi, I’m @Joseph Ugochukwu pascal
 - 👀 I’m someone who has his hand in every pie both in teach and other fields of life.
 - 🌱 I’m currently learning java script and sharpening my css skills (been fun so far) 
-- 📫 You can email me: pascaljoseph729@gmal.com or wa.me: 07046253045
+- 📫 You can email me: pascaljoseph729@gmal.com or wa.me: +2347046253045
 - 😄 Pronouns: He
 - ⚡ Fun fact: Am cursed on improving anything am given. I try my best to learn everything i can
 - An honest person, life should be explored!.
