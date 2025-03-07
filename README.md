@@ -1,3 +1,5 @@
+![Your paragraph text](https://github.com/user-attachments/assets/b03bd2d0-7322-4d0b-8a9a-c93d865d2cc1)
+
 - 👋 Hi, I’m @Joseph Ugochukwu pascal
 - 👀 I’m someone who has his hand in every pie both in teach and other fields of life.
 - 🌱 I’m currently learning java script and sharpening my css skills (been fun so far) 
