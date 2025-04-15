@@ -1,5 +1,4 @@
-![my offical cover pg](https://github.com/user-attachments/assets/9f0b079f-fdc0-4a2f-8efb-58dc11362d6c)
-
+![official](https://github.com/user-attachments/assets/9529626a-b989-4457-a961-3eac35c679e7)
 
 - 👋 Hi, I’m @Joseph Ugochukwu pascal
 - 🌱 I’m currently learning java script and sharpening my css skills (been fun so far) 
