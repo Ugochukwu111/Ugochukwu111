@@ -44,7 +44,6 @@ Role-based web application for managing property sales operations.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ugochukwu111&show_icons=true&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ugochukwu111&hide_border=true)
 
