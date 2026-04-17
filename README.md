@@ -44,11 +44,11 @@ Role-based web application for managing property sales operations.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ugochukwu111&show_icons=true&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Ugochukwu111&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ugochukwu111&layout=compact&hide_border=true)
 
 ---
 
