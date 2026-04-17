@@ -1,12 +1,71 @@
-![official](https://github.com/user-attachments/assets/9529626a-b989-4457-a961-3eac35c679e7)
+# 👋 Hi, I'm Ugo
 
-A frontend developer who pays attention to detail, values good UI/UX, and writes clean, reusable, and efficient code — with a strong grasp of HTML semantics.
+🚀 Frontend Developer focused on building scalable, user-centric web applications.  
+I care about clean architecture, intuitive UX, and systems that actually solve real business problems.
 
-I'm driven by critical thinking, deep learning, and an idealist mindset. Unique in every way, and getting more unique every day.
-My name is Joseph Pascal Ugochukwu, and I’d love to connect and have meaningful conversations with brilliant minds — tech-related or not.
+---
 
-Got some spare time? Let’s connect. 👉 pascaljoseph729@gmail.com wattapp: +2347046253045
-<!---
-Ugochukwu111/Ugochukwu111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🧠 What I Do
+- Build modern web apps with **React + Vite**
+- Design **scalable frontend architectures**
+- Implement **robust form validation & authentication flows**
+- Translate business needs into **clean, usable interfaces**
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+- React, JavaScript (ES6+), Vite  
+- HTML5, CSS3  
+
+**Tools & Workflow**
+- Git & GitHub  
+- REST APIs  
+- Component-driven development  
+
+---
+
+## 🚧 Featured Project
+
+### 🏡 Real Estate Management Platform
+Role-based web application for managing property sales operations.
+
+**Key Highlights:**
+- Admin & Associate dashboards  
+- Sales tracking & performance ranking  
+- Lead (prospective client) management  
+- OTP authentication & secure password flows  
+- Clean validation system with great UX  
+
+👉 *Built with scalability and real-world usage in mind*
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true)
+
+---
+
+## 🎯 Current Focus
+- Improving frontend system design  
+- Building production-ready fullstack apps  
+- Writing cleaner, more maintainable code  
+
+---
+
+## 📫 Connect With Me
+- LinkedIn:[ https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/pascal001/)  
+- Email: pascaljoseph729@email.com
+- wa: +2347046253045
+- x: https://x.com/Pas_Cal_001
+
+---
+
+## ⚡ Philosophy
+> Build things that are not just functional, but reliable, scalable, and easy to use.
