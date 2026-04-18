@@ -19,12 +19,13 @@
 | Category | Skills |
 | :--- | :--- |
 | **Frontend** | React, Vite, JavaScript (ES6+), Semantic CSS |
+| **Backtend** | NodeJs, MongoDB |
 | **Architecture** | Modular Systems, Scalable UI/UX, Robust Auth |
 | **Workflow** | Git/GitHub, REST APIs, Component-Driven Dev |
 
 ---
 
-### 🚧 Featured Build: Dilux Properties
+### 🚧 land-real-estate-management-dashboard
 
 A full-scale real estate management engine designed for scalability and real-world ROI.
 
