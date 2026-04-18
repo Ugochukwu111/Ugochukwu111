@@ -1,70 +1,54 @@
-# 👋 Hi, I'm Ugo
+# 👋 I’m Ugo (Idealist Builder)
 
-🚀 Frontend Developer focused on building scalable, user-centric web applications.  
-I care about clean architecture, intuitive UX, and systems that actually solve real business problems.
-
----
-
-## 🧠 What I Do
-- Build modern web apps with **React + Vite**
-- Design **scalable frontend architectures**
-- Implement **robust form validation & authentication flows**
-- Translate business needs into **clean, usable interfaces**
+**I don't just write code; I architect systems that drive revenue and efficiency.** I specialize in the MERN stack, prioritizing modularity, semantics, and high-velocity collaboration. I build to solve problems, not just to ship features.
 
 ---
 
-## 🛠️ Tech Stack
+### 🧠 My "Idealist" Manifesto
 
-**Frontend**
-- React, JavaScript (ES6+), Vite  
-- HTML5, CSS3  
-
-**Tools & Workflow**
-- Git & GitHub  
-- REST APIs  
-- Component-driven development  
+> **60% Fun, 40% Professional:** That’s my recipe for high-impact software. 
+> 
+> **The 3-Day Rule:** If we aren't talking, we aren't building. I value real-time synchronization over endless planning.
+> 
+> **Always Teaching, Always Growing:** I believe the best way to master a skill is to teach it, and I am a lifelong student who is constantly evolving.
 
 ---
 
-## 🚧 Featured Project
+### 🛠 The Toolkit
 
-### 🏡 Real Estate Management Platform
-Role-based web application for managing property sales operations.
-
-**Key Highlights:**
-- Admin & Associate dashboards  
-- Sales tracking & performance ranking  
-- Lead (prospective client) management  
-- OTP authentication & secure password flows  
-- Clean validation system with great UX  
-
-👉 *Built with scalability and real-world usage in mind*
+| Category | Skills |
+| :--- | :--- |
+| **Frontend** | React, Vite, JavaScript (ES6+), Semantic CSS |
+| **Architecture** | Modular Systems, Scalable UI/UX, Robust Auth |
+| **Workflow** | Git/GitHub, REST APIs, Component-Driven Dev |
 
 ---
 
-## 📊 GitHub Stats
+### 🚧 Featured Build: Dilux Properties
 
+A full-scale real estate management engine designed for scalability and real-world ROI.
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Ugochukwu111&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ugochukwu111&layout=compact&hide_border=true)
-
----
-
-## 🎯 Current Focus
-- Improving frontend system design  
-- Building production-ready fullstack apps  
-- Writing cleaner, more maintainable code  
+* **Role-Based Dashboards:** Dedicated views for Admin & Associates.
+* **Operations:** Lead management, sales tracking, and performance ranking.
+* **Security:** Custom OTP authentication & secure password flows.
 
 ---
 
-## 📫 Connect With Me
-- LinkedIn:[ https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/pascal001/)  
-- Email: pascaljoseph729@email.com
-- wa: +2347046253045
-- x: https://x.com/Pas_Cal_001
+### 📈 GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Ugochukwu111&hide_border=true&background=000000&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff)
 
 ---
 
-## ⚡ Philosophy
-> Build things that are not just functional, but reliable, scalable, and easy to use.
+### 🤝 Let's Build Together
+
+**Don't just "hire" me—let's build together.** If you have a vision, I have the stack to make it real.
+
+* 📧 **[Email Me](mailto:pascaljoseph729@email.com)**
+* 💼 **[LinkedIn](https://www.linkedin.com/in/pascal001/)**
+* 📱 **[WhatsApp](https://wa.me/2347046253045)**
+* 🐦 **[X (Twitter)](https://x.com/Pas_Cal_001)**
+
+---
+
+> *"The best person for the job isn't the world's most 'top-notch' expert—it's the person you can actually build with."*
