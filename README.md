@@ -19,7 +19,7 @@
 | Category | Skills |
 | :--- | :--- |
 | **Frontend** | React, Vite, JavaScript (ES6+), Semantic CSS |
-| **Backtend** | NodeJs, MongoDB |
+| **Backend** | NodeJs, MongoDB |
 | **Architecture** | Modular Systems, Scalable UI/UX, Robust Auth |
 | **Workflow** | Git/GitHub, REST APIs, Component-Driven Dev |
 
