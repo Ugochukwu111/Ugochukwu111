@@ -6,7 +6,7 @@
 
 ### 🧠 My "Idealist" Manifesto
 
-> **60% Fun, 40% Professional:** That’s my recipe for high-impact software. 
+> **70% Professional, 30% Connecting with the people beyond the tech:** That’s my recipe for high-impact software. 
 > 
 > **The 3-Day Rule:** If we aren't talking, we aren't building. I value real-time synchronization over endless planning.
 > 
