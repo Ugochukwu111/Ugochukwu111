@@ -38,7 +38,7 @@ A full-scale real estate management engine designed for scalability and real-wor
 ### 📈 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ugochukwu111&hide_border=true&background=000000&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff)
-![Ugo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ugochukwu111&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide=stars,commits)
+![Ugo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ugochukwu111&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_rank=true)
 
 ---
 
